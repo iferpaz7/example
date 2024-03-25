@@ -1,0 +1,22 @@
+body {
+    background-color: beige;
+}
+
+p {
+    /* color: white; */
+    color: gray;
+}
+
+.page-title {
+    color: brown;
+}
+
+.link-custom {
+    color: tomato;
+}
+
+.btn-save {
+    background-color: green;
+    color: white;
+}
+
